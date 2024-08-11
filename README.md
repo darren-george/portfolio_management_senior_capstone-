@@ -1,3 +1,5 @@
+## Overview
+
 For our senior capstone project, the team built an automated portofolio management application. Grade received: A.
 
 This is an implementation of the paper, A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem ([arXiv:1706.10059](https://arxiv.org/abs/1706.10059)), together with a toolkit of portfolio management research.
